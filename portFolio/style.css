@@ -250,4 +250,27 @@ box-shadow: 0 1px 3px rgba(0 ,0,0,0.25), 0 10px 10px rgba(0, 0,0,0.22);
     width: 80%;
     animation: oop 3s;
 }
+.foot{
+    background: linear-gradient(135deg, rgba(241, 112, 241, 0.692)0%, rgb(51, 31, 49)100%);
+}
+.text{
+    text-align: center;
+    color: white;
+
+}
+.text i,a{
+    font-size: 25px;
+    margin: 5px;
+    color: white;
+}
+.footer-icons{
+    text-align: center;
+    margin: 10px;
+    margin-bottom: 10px;
+}
+.footer-icons i,a{
+ font-size: 30px;
+ text-align: center;
+}
+
 
